@@ -1,5 +1,7 @@
 # TKAN-LOB Classifier
 
+This project implements an ungated recurrent KAN cell (a gateless variant of the original TKAN of Genet & Inzirillo, 2024)
+
 > Temporal Kolmogorov–Arnold Network for high-frequency Order Flow
 > Imbalance classification on LOBSTER tick data, benchmarked against
 > a recurrent LSTM baseline.
