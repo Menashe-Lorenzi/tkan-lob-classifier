@@ -148,7 +148,3 @@ and academic-license restricted). To reproduce the pipeline:
 - Genet, R. & Inzirillo, H. (2024). TKAN: Temporal Kolmogorov–Arnold
   Networks. *arXiv:2405.07344*.
 - LOBSTER data: <https://lobsterdata.com/>
-
-## License
-
-MIT — see [LICENSE](./LICENSE) (add one if not yet present).
